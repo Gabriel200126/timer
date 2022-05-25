@@ -1,3 +1,4 @@
+//timer
 let counter2 = 0;
 let min = 0;
 let h = 0;
